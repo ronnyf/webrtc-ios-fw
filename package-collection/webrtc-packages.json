@@ -1,0 +1,137 @@
+{
+	"name": "WebRTC packages",
+	"overview": "A collection of INFOSEC approved WebRTC dependencies.",
+	"generatedBy": {
+		"name": "Ronny F."
+	},
+	"keywords": [
+	],
+	"packages": [
+		{
+			"url": "git@github.corp.ebay.com:eBayMobile/protobuf",
+			"readmeURL": "https://github.corp.ebay.com/eBayMobile/protobuf/blob/ebay/release/README.md",
+			"license": {
+				"name": "Google",
+				"url": "https://github.corp.ebay.com/eBayMobile/protobuf/blob/ebay/release/LICENSE.txt"
+			},
+			"versions": ["3.23.4"]
+		},
+		{
+			"url": "git@github.corp.ebay.com:eBayMobile/crc32c",
+			"readmeURL": "https://github.corp.ebay.com/eBayMobile/crc32c/blob/ebay/release/README.md",
+			"license": {
+				"name": "BSD",
+				"url": "https://github.corp.ebay.com/eBayMobile/crc32c/blob/ebay/release/LICENSE.txt"
+			},
+			"versions": ["1.1.3"]
+		},
+		{
+			"url": "git@github.corp.ebay.com:eBayMobile/libyuv",
+			"readmeURL": "https://github.corp.ebay.com/eBayMobile/libyuv/blob/ebay/release/README.md",
+			"license": {
+				"name": "BSD",
+				"url": "https://github.corp.ebay.com/eBayMobile/libyuv/blob/ebay/release/LICENSE.txt"
+			},
+			"versions": ["e1.0.0"]
+		},
+		{
+			"url": "git@github.corp.ebay.com:eBayMobile/abseil-cpp",
+			"readmeURL": "https://github.corp.ebay.com/eBayMobile/abseil-cpp/blob/ebay/release/README.md",
+			"license": {
+				"name": "Apache-2.0",
+				"url": "https://github.corp.ebay.com/eBayMobile/abseil-cpp/blob/ebay/release/LICENSE.txt"
+			},
+			"versions": ["1.0.0"]
+		},
+		{
+			"url": "git@github.corp.ebay.com:eBayMobile/libopus",
+			"readmeURL": "https://github.corp.ebay.com/eBayMobile/libopus/blob/ebay/release/README.md",
+			"license": {
+				"name": "Xiph.Org",
+				"url": "https://github.corp.ebay.com/eBayMobile/libopus/blob/ebay/release/LICENSE.txt"
+			},
+			"versions": ["1.4.7"]
+		},
+		{
+			"url": "git@github.corp.ebay.com:eBayMobile/jsoncpp",
+			"readmeURL": "https://github.corp.ebay.com/eBayMobile/jsoncpp/blob/ebay/release/README.md",
+			"license": {
+				"name": "MIT",
+				"url": "https://github.corp.ebay.com/eBayMobile/jsoncpp/blob/ebay/release/LICENSE.txt"
+			},
+			"versions": ["1.9.6"]
+		},
+		{
+			"url": "git@github.corp.ebay.com:eBayMobile/libsrtp",
+			"readmeURL": "https://github.corp.ebay.com/eBayMobile/libsrtp/blob/ebay/release/README.md",
+			"license": {
+				"name": "Cisco",
+				"url": "https://github.corp.ebay.com/eBayMobile/libsrtp/blob/ebay/release/LICENSE.txt"
+			},
+			"versions": ["2.2.0"]
+		},
+		{
+			"url": "git@github.corp.ebay.com:eBayMobile/boringssl",
+			"readmeURL": "https://github.corp.ebay.com/eBayMobile/boringssl/blob/ebay/release/README.md",
+			"license": {
+				"name": "OpenSSL",
+				"url": "https://github.corp.ebay.com/eBayMobile/boringssl/blob/ebay/release/LICENSE.txt"
+			},
+			"versions": ["1.0.0"]
+		},
+		{
+			"url": "git@github.corp.ebay.com:eBayMobile/rnnoise",
+			"readmeURL": "https://github.corp.ebay.com/eBayMobile/rnnoise/blob/ebay/release/README.md",
+			"license": {
+				"name": "BSD",
+				"url": "https://github.corp.ebay.com/eBayMobile/rnnoise/blob/ebay/release/LICENSE.txt"
+			},
+			"versions": ["1.0.0"]
+		},
+		{
+			"url": "git@github.corp.ebay.com:eBayMobile/utf8_range",
+			"readmeURL": "https://github.corp.ebay.com/eBayMobile/utf8_range/blob/ebay/release/README.md",
+			"license": {
+				"name": "MIT",
+				"url": "https://github.corp.ebay.com/eBayMobile/utf8_range/blob/ebay/release/LICENSE.txt"
+			},
+			"versions": ["e1.0.0"]
+		},
+		{
+			"url": "git@github.corp.ebay.com:eBayMobile/googletest",
+			"readmeURL": "https://github.corp.ebay.com/eBayMobile/googletest/blob/ebay/release/README.md",
+			"license": {
+				"name": "BSD",
+				"url": "https://github.corp.ebay.com/eBayMobile/googletest/blob/ebay/release/LICENSE.txt"
+			},
+			"versions": ["1.14.0"]
+		},
+		{
+			"url": "git@github.corp.ebay.com:eBayMobile/libvpx",
+			"readmeURL": "https://github.corp.ebay.com/eBayMobile/libvpx/blob/ebay/release/README.md",
+			"license": {
+				"name": "BSD",
+				"url": "https://github.corp.ebay.com/eBayMobile/libvpx/blob/ebay/release/LICENSE.txt"
+			},
+			"versions": ["1.13.1"]
+		},
+		{
+			"url": "git@github.corp.ebay.com:eBayMobile/libvmaf",
+			"readmeURL": "https://github.corp.ebay.com/eBayMobile/libvmaf/blob/ebay/release/README.md",
+			"license": {
+				"name": "BSD",
+				"url": "https://github.corp.ebay.com/eBayMobile/libvmaf/blob/ebay/release/LICENSE.txt"
+			},
+			"versions": ["2.3.2"]
+		},
+		{
+			"url": "git@github.corp.ebay.com:eBayMobile/aom",
+			"readmeURL": "https://github.corp.ebay.com/eBayMobile/aom/blob/ebay/release/README.md",
+			"license": {
+				"name": "BSD",
+				"url": "https://github.corp.ebay.com/eBayMobile/aom/blob/ebay/release/LICENSE.txt"
+			},
+			"versions": ["3.6.1"]
+		}
+	]
+}

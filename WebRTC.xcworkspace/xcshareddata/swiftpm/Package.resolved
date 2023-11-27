@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "abseil-cpp",
+      "kind" : "remoteSourceControl",
+      "location" : "git@github.corp.ebay.com:eBayMobile/abseil-cpp",
+      "state" : {
+        "branch" : "ebay/release",
+        "revision" : "d0146063f0eb2e0b42b5cc217aca15266d327635"
+      }
+    },
+    {
+      "identity" : "libyuv",
+      "kind" : "remoteSourceControl",
+      "location" : "git@github.corp.ebay.com:eBayMobile/libyuv",
+      "state" : {
+        "branch" : "ebay/release",
+        "revision" : "60f237b6628e36c5931e7468187bad17eaf79915"
+      }
+    }
+  ],
+  "version" : 2
+}

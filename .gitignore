@@ -1,0 +1,13 @@
+.DS_Store
+xcuserdata
+boringssl
+aom
+libavcodec
+rnnoise
+vmaf
+crc32c
+jsoncpp
+openssl
+depot_tools
+
+
